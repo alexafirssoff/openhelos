@@ -1,0 +1,9 @@
+Word,HELOS Morphs,Morfessor Morphs,Gold Morphs,HELOS Segs,Morfessor Segs,Gold Segs,Precision (HELOS),Recall (HELOS),F1 (HELOS),Precision (Morfessor),Recall (Morfessor),F1 (Morfessor)
+deniyorsun,"((((d, e), n), (i, y)), (((o, r), s), (u, n)))",deniyor + sun,den + i + yor + sun,9.0,2.0,4.0,0.375,1.0,0.545,1.0,0.333,0.5
+deniyoruz,"((((d, e), n), ((i, y), (o, r))), (u, z))",deniyor + uz,den + i + yor + uz,9.0,2.0,4.0,0.375,1.0,0.545,1.0,0.333,0.5
+kullanıyorsun,"((((k, u), (l, l)), (a, (n, ı))), (((y, o), r), ((s, u), n)))",kullan + ıyor + sun,kullan + ı + yor + sun,10.0,3.0,4.0,0.222,0.667,0.333,1.0,0.667,0.8
+seviyorsun,"(((s, e), v), (((i, y), (o, r)), ((s, u), n)))",seviyor + sun,sev + i + yor + sun,9.0,2.0,4.0,0.375,1.0,0.545,1.0,0.333,0.5
+sürüyorum,"((s, ((ü, r), ü)), (((y, o), r), (u, m)))",sürüyor + um,sür + ü + yor + um,7.0,2.0,4.0,0.333,0.667,0.444,1.0,0.333,0.5
+sürüyoruz,"(((s, ((ü, r), ü)), (((y, o), r), u)), z)",sürüyor + uz,sür + ü + yor + uz,7.0,2.0,4.0,0.333,0.667,0.444,1.0,0.333,0.5
+yapıyorsun,"(((y, a), p), (ı, (((y, o), r), ((s, u), n))))",yap + ıyor + sun,yap + ı + yor + sun,9.0,3.0,4.0,0.375,1.0,0.545,1.0,0.667,0.8
+— AVERAGE —,,,,8.571428571428571,2.2857142857142856,4.0,0.34114285714285714,0.8572857142857142,0.4858571428571428,1.0,0.4284285714285715,0.5857142857142856

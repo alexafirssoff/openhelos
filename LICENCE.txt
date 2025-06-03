@@ -1,0 +1,31 @@
+SPDX-License-Identifier: LicenseRef-NonCommercial-Research
+
+Copyright (c) 2025 Alexei Firssoff. All rights reserved.
+ORCID: https://orcid.org/0009-0006-0316-116X
+
+Non-Commercial Research Licence
+
+Permission is hereby granted to any individual or institution to use, reproduce, and modify this software
+and its associated documentation for non-commercial research and educational purposes only,
+provided that proper attribution is given.
+
+Commercial use of this software, including but not limited to its incorporation into commercial products
+or services, redistribution for profit, or deployment in revenue-generating systems, is strictly
+prohibited without the express written permission of the copyright holder.
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not
+limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+In no event shall the authors or copyright holders be liable for any claim, damages, or other
+liability arising from the use of the software.
+
+If you wish to use this software for commercial purposes, please contact the author to discuss licensing terms.
+
+Attribution format:
+
+> This work is based on "HELOS" by Alexei Firssoff (ORCID: 0009-0006-0316-116X), 2025.
+Available at: [GitHub/arXiv link].
+
+---
+
+This licence is inspired by the Creative Commons Attribution-NonCommercial 4.0 International Licence (CC BY-NC 4.0),
+adapted for software. See: https://creativecommons.org/licenses/by-nc/4.0/

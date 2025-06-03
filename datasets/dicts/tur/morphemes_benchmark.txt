@@ -1,0 +1,44 @@
+hafta hafta
+haftada hafta+da
+
+yıl yıl
+yılda yıl+da
+
+saat saat
+saatta saat+ta
+
+yapmak yap+mak
+yapıyor yap+ı+yor
+yapıyorum yap+ı+yor+um
+yapıyorsun yap+ı+yor+sun
+yapıyoruz yap+ı+yor+uz
+
+kullanmak kullan+mak
+kullanıyor kullan+ı+yor
+kullanıyorum kullan+ı+yor+um
+kullanıyorsun kullan+ı+yor+sun
+kullanıyoruz kullan+ı+yor+uz
+
+sevmek sev+mek
+seviyor sev+i+yor
+seviyorum sev+i+yor+um
+seviyorsun sev+i+yor+sun
+seviyoruz sev+i+yor+uz
+
+denemek dene+mek
+deniyor den+i+yor
+deniyorum den+i+yor+um
+deniyorsun den+i+yor+sun
+deniyoruz den+i+yor+uz
+
+sürmek sür+mek
+sürüyor sür+ü+yor
+sürüyorum sür+ü+yor+um
+sürüyorsun sür+ü+yor+sun
+sürüyoruz sür+ü+yor+uz
+
+tut tut
+tutmak tut+mak
+
+bırak bırak
+bırakmak bırak+mak

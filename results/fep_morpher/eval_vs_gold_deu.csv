@@ -1,0 +1,42 @@
+Word,HELOS Morphs,Morfessor Morphs,Gold Morphs,HELOS Segs,Morfessor Segs,Gold Segs,Precision (HELOS),Recall (HELOS),F1 (HELOS),Precision (Morfessor),Recall (Morfessor),F1 (Morfessor)
+arbeiter,"((((a, r), (b, e)), (i, t)), (e, r))",arbeit + er,arbeit + er,7.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+arbeitslos,"((((a, r), (b, e)), (i, t)), (s, ((l, o), s)))",arbeit + slos,arbeit + s + los,9.0,2.0,3.0,0.0,0.0,0.0,1.0,0.5,0.667
+arbeitslosigkeit,"(((((a, r), (b, e)), (i, t)), (s, ((l, o), s))), ((i, g), ((k, e), (i, t))))",arbeit + slosig + keit,arbeit + s + los + ig + keit,15.0,3.0,5.0,0.071,0.25,0.111,1.0,0.5,0.667
+arm,"((a, r), m)",arm,arm,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+armut,"(((a, r), m), (u, t))",armut,arm + ut,4.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+baeumchen,"(((b, a), (e, u)), ((m, (c, h)), (e, n)))",baeumch + en,baum + chen,8.0,2.0,2.0,0.143,1.0,0.25,0.0,0.0,0.0
+baeume,"((((b, a), e), (u, m)), e)",baeume,baum + e,5.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+briefkasten,"(((b, r), ((i, e), f)), ((k, (a, s)), (t, (e, n))))",briefkast + en,brief + kast + en,10.0,2.0,3.0,0.0,0.0,0.0,1.0,0.5,0.667
+buch,"((b, u), (c, h))",buch,buch,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+diskutieren,"(((d, (i, s)), (k, (u, t))), (((i, e), r), (e, n)))",diskuti + er + en,diskut + ier + en,10.0,3.0,3.0,0.0,0.0,0.0,0.5,0.5,0.5
+ehrlich,"((e, h), (r, ((l, i), (c, h))))",ehrlich,ehr + lich,6.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+einladen,"((e, (i, n)), (((l, a), d), (e, n)))",einlad + en,ein + lad + en,7.0,2.0,3.0,0.0,0.0,0.0,1.0,0.5,0.667
+gearbeitet,"(((g, e), (a, r)), (((b, e), i), ((t, e), t)))",ge + arbeit + et,ge + arbeit + et,9.0,3.0,3.0,0.25,1.0,0.4,1.0,1.0,1.0
+gegangen,"((g, ((e, g), a)), ((n, g), (e, n)))",ge + gang + en,ge + gang + en,7.0,3.0,3.0,0.167,0.5,0.25,1.0,1.0,1.0
+geh,"((g, e), h)",ge + h,geh,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+gehen,"(((g, e), h), (e, n))",ge + h + en,geh + en,4.0,3.0,2.0,0.0,0.0,0.0,0.5,1.0,0.667
+gesehen,"((g, e), (s, ((e, h), (e, n))))",ge + sehen,ge + seh + en,6.0,2.0,3.0,0.2,0.5,0.286,1.0,0.5,0.667
+guete,"((g, (u, e)), (t, e))",guete,gut + e,4.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+hauptbahnhof,"((((h, a), u), (p, t)), (((b, a), h), ((n, h), (o, f))))",hauptbahnhof,haupt + bahn + hof,11.0,1.0,3.0,0.1,0.5,0.167,0.0,0.0,0.0
+herrlich,"(((h, (e, r)), r), ((l, i), (c, h)))",herrlich,herr + lich,7.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+kinderbuch,"((((k, i), (n, d)), (e, r)), ((b, u), (c, h)))",kinderbuch,kind + er + buch,9.0,1.0,3.0,0.125,0.5,0.2,0.0,0.0,0.0
+kinderlos,"(((k, i), (n, d)), (((e, r), l), (o, s)))",kinderlos,kind + er + los,8.0,1.0,3.0,0.143,0.5,0.222,0.0,0.0,0.0
+kindlich,"(((k, i), (n, d)), ((l, i), (c, h)))",kindlich,kind + lich,7.0,1.0,2.0,0.167,1.0,0.286,0.0,0.0,0.0
+komm,"((k, o), (m, m))",komm,komm,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+lieber,"((l, (i, e)), (b, (e, r)))",lieb + er,lieb + er,5.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+ordnung,"(((o, r), (d, n)), (u, (n, g)))",ordnung,ordn + ung,6.0,1.0,2.0,0.2,1.0,0.333,0.0,0.0,0.0
+sager,"(((s, a), g), (e, r))",sag + er,sag + er,4.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+schlaf,"((s, (c, h)), (l, (a, f)))",schlaf,schlaf,5.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+schreibtischlampe,"((((s, (c, h)), (r, e)), ((i, b), (t, i))), (((s, (c, h)), (l, a)), ((m, p), e)))",schreibtischlampe,schreib + tisch + lamp + e,16.0,1.0,4.0,0.2,1.0,0.333,0.0,0.0,0.0
+schuelerin,"(((s, (c, h)), u), (((e, l), (e, r)), (i, n)))",schuel + erin,schuel + er + in,9.0,2.0,3.0,0.0,0.0,0.0,1.0,0.5,0.667
+spieler,"(((s, p), (i, e)), ((l, e), r))",spiel + er,spiel + er,6.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+telefonieren,"(((t, ((e, l), e)), (f, o)), ((n, (i, e)), (r, (e, n))))",telefoni + er + en,telefon + ier + en,11.0,3.0,3.0,0.0,0.0,0.0,0.5,0.5,0.5
+trinken,"(((t, r), (i, n)), (k, (e, n)))",trink + en,trink + en,6.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+ueberlebenswichtig,"(((u, ((e, b), (e, r))), ((l, e), b)), ((((e, n), s), w), (((i, c), h), ((t, i), g))))",ueberlebenswichtig,ueber + leb + ens + wicht + ig,17.0,1.0,5.0,0.062,0.25,0.1,0.0,0.0,0.0
+ungluecklich,"(((u, (n, g)), (l, (u, e))), ((c, k), ((l, i), (c, h))))",ungluecklich,un + glueck + lich,11.0,1.0,3.0,0.1,0.5,0.167,0.0,0.0,0.0
+unterhaltung,"((((u, n), t), ((e, r), h)), (((a, l), t), (u, (n, g))))",unterhaltung,unter + halt + ung,11.0,1.0,3.0,0.1,0.5,0.167,0.0,0.0,0.0
+unwahrscheinlichkeit,"((((u, n), ((w, a), h)), (r, ((s, (c, h)), e))), (((i, n), ((l, i), (c, h))), ((k, e), (i, t))))",un + wahr + scheinlich + keit,un + wahr + schein + lich + keit,19.0,4.0,5.0,0.111,0.5,0.182,1.0,0.75,0.857
+wasserfall,"(((w, a), (s, s)), (((e, r), f), ((a, l), l)))",wasser + fall,wasser + fall,9.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+wiedersehen,"(((w, (i, e)), (d, (e, r))), (s, ((e, h), (e, n))))",wied + er + sehen,wieder + seh + en,10.0,3.0,3.0,0.0,0.0,0.0,0.5,0.5,0.5
+wissenschaft,"((((w, i), (s, s)), (e, n)), ((s, (c, h)), ((a, f), t)))",wissenschaft,wiss + en + schaft,11.0,1.0,3.0,0.1,0.5,0.167,0.0,0.0,0.0
+— AVERAGE —,,,,7.975,1.75,2.55,0.055975,0.25,0.09052500000000001,0.425,0.35625,0.37565

@@ -1,0 +1,55 @@
+Word,HELOS Morphs,Morfessor Morphs,Gold Morphs,HELOS Segs,Morfessor Segs,Gold Segs,Precision (HELOS),Recall (HELOS),F1 (HELOS),Precision (Morfessor),Recall (Morfessor),F1 (Morfessor)
+acteur,"(((a, c), t), ((e, u), r))",act + eur,act + eur,5.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+affaiblissement,"((((a, f), ((f, a), i)), (b, ((l, i), s))), (s, (((e, m), e), (n, t))))",affaiblissement,ad + faibl + iss + e + ment,14.0,1.0,5.0,0.154,0.5,0.235,0.0,0.0,0.0
+aimer,"((a, i), ((m, e), r))",a + im + er,aim + er,4.0,3.0,2.0,0.0,0.0,0.0,0.5,1.0,0.667
+assombrir,"((((a, s), s), (o, m)), ((b, r), (i, r)))",assombr + ir,ad + sombr + ir,8.0,2.0,3.0,0.286,1.0,0.444,1.0,0.5,0.667
+blancheur,"(((b, (l, a)), (n, c)), (h, ((e, u), r)))",blanc + h + eur,blanch + eur,8.0,3.0,2.0,0.0,0.0,0.0,0.5,1.0,0.667
+centralisation,"((((c, e), (n, t)), (r, a)), (((l, i), s), (((a, t), i), (o, n))))",central + isation,centr + al + is + at + ion,13.0,2.0,5.0,0.0,0.0,0.0,1.0,0.25,0.4
+civiliser,"(((c, i), (v, i)), ((l, (i, s)), (e, r)))",civil + iser,civil + is + er,8.0,2.0,3.0,0.0,0.0,0.0,1.0,0.5,0.667
+colonisation,"((((c, o), l), (o, n)), (((i, s), a), ((t, i), (o, n))))",coloni + s + ation,colon + is + at + ion,11.0,3.0,4.0,0.2,0.667,0.308,0.5,0.333,0.4
+coloniser,"((((c, o), l), (o, n)), ((i, s), (e, r)))",coloni + s + er,colon + is + er,8.0,3.0,3.0,0.286,1.0,0.444,0.5,0.5,0.5
+compter,"(((c, o), (m, p)), (t, (e, r)))",compt + er,compt + er,6.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+construire,"(((c, o), (n, s)), (((t, r), u), (i, (r, e))))",cons + truire,con + stru + ire,9.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+decentralisation,"((d, e), ((((c, e), (n, t)), (r, a)), (((l, i), s), (((a, t), i), (o, n)))))",de + central + isation,de + centr + al + is + at + ion,15.0,3.0,6.0,0.071,0.2,0.105,1.0,0.4,0.571
+developper,"(((d, e), (v, e)), (((l, o), p), (p, (e, r))))",de + velopp + er,de + velopp + er,9.0,3.0,3.0,0.25,1.0,0.4,1.0,1.0,1.0
+dire,"(d, (i, (r, e)))",di + re,dir + e,3.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+donation,"((d, (o, n)), (((a, t), i), (o, n)))",don + ation,don + at + ion,7.0,2.0,3.0,0.167,0.5,0.25,1.0,0.5,0.667
+donner,"(((d, (o, n)), n), (e, r))",donn + er,donn + er,5.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+donneur,"((d, (o, n)), ((n, e), (u, r)))",donn + eur,donn + eur,6.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+echange,"((e, (c, h)), ((a, n), (g, e)))",echang + e,e + chang + e,6.0,2.0,3.0,0.0,0.0,0.0,1.0,0.5,0.667
+eclaircissement,"((((e, c), (l, a)), ((i, r), (c, i))), ((s, s), (((e, m), e), (n, t))))",e + clair + cissement,e + clair + c + iss + e + ment,14.0,3.0,6.0,0.077,0.2,0.111,1.0,0.4,0.571
+faire,"((f, a), (i, (r, e)))",fai + re,fair + e,4.0,2.0,2.0,0.333,1.0,0.5,0.0,0.0,0.0
+finir,"((f, (i, n)), (i, r))",fin + ir,fin + ir,4.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+force,"(((f, o), r), (c, e))",force,forc + e,4.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+gouverner,"(((g, o), (u, v)), (((e, r), n), (e, r)))",gouvern + er,gouvern + er,8.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+humain,"(((h, u), m), (a, (i, n)))",huma + in,hum + ain,5.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+humanisation,"(((h, u), (m, a)), (((n, (i, s)), a), ((t, i), (o, n))))",huma + n + isation,hum + an + is + at + ion,11.0,3.0,5.0,0.0,0.0,0.0,0.5,0.25,0.333
+inconstitutionnel,"((((i, n), ((c, o), (n, s))), ((t, i), t)), ((u, ((t, i), (o, n))), (n, (e, l))))",in + constitution + nel,in + con + stitu + tion + n + el,16.0,3.0,6.0,0.133,0.4,0.2,1.0,0.4,0.571
+industrialisation,"((((i, n), (d, u)), ((s, (t, r)), i)), ((a, ((l, i), s)), (((a, t), i), (o, n))))",industri + al + isation,industri + al + is + at + ion,16.0,3.0,5.0,0.133,0.5,0.211,1.0,0.5,0.667
+informer,"(((i, n), (f, o)), ((r, (m, e)), r))",in + former,in + form + er,7.0,2.0,3.0,0.167,0.5,0.25,1.0,0.5,0.667
+injustice,"((i, n), (((j, (u, s)), (t, i)), (c, e)))",in + justice,in + just + ice,8.0,2.0,3.0,0.143,0.5,0.222,1.0,0.5,0.667
+jaune,"((j, (a, u)), (n, e))",jaune,jaun + e,4.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+joueur,"((j, (o, u)), ((e, u), r))",jou + eur,jou + eur,5.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+jour,"((j, o), (u, r))",jour,jour,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+justifier,"(((j, (u, s)), (t, i)), ((f, i), (e, r)))",justifi + er,just + ifi + er,8.0,2.0,3.0,0.143,0.5,0.222,1.0,0.5,0.667
+legal,"(((l, e), g), (a, l))",legal,leg + al,4.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+lire,"((l, i), (r, e))",l + ir + e,lir + e,3.0,3.0,2.0,0.0,0.0,0.0,0.5,1.0,0.667
+lisible,"(((l, i), s), ((i, b), (l, e)))",lisible,lis + ible,6.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+main,"((m, a), (i, n))",ma + in,main,3.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+nation,"(n, (((a, t), i), (o, n)))",n + ation,nation,5.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+nationaliser,"((n, (((a, t), i), (o, n))), (a, ((l, (i, s)), (e, r))))",national + iser,nation + al + is + er,11.0,2.0,4.0,0.0,0.0,0.0,1.0,0.333,0.5
+nouveau,"((n, ((o, u), (v, e))), (a, u))",nouv + eau,nouv + eau,6.0,2.0,2.0,0.2,1.0,0.333,1.0,1.0,1.0
+passage,"(((p, a), s), ((s, a), (g, e)))",pass + age,pass + age,6.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+passer,"(((p, a), s), ((s, e), r))",pass + er,pass + er,5.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+personnalisation,"((((p, (e, r)), s), ((o, n), n)), ((a, ((l, i), s)), (((a, t), i), (o, n))))",person + n + al + isation,personn + al + is + at + ion,15.0,4.0,5.0,0.143,0.5,0.222,0.667,0.5,0.571
+personnaliser,"((((p, (e, r)), s), ((o, n), n)), (a, ((l, (i, s)), (e, r))))",person + n + al + iser,personn + al + is + er,12.0,4.0,4.0,0.182,0.667,0.286,0.667,0.667,0.667
+production,"((((p, r), o), (d, u)), (c, ((t, i), (o, n))))",pro + duct + ion,pro + duc + t + ion,9.0,3.0,4.0,0.125,0.333,0.182,1.0,0.667,0.8
+refaire,"(((r, e), (f, a)), (i, (r, e)))",re + fai + re,re + fair + e,6.0,3.0,3.0,0.2,0.5,0.286,0.5,0.5,0.5
+relire,"(((r, e), (l, i)), (r, e))",re + l + ir + e,re + lir + e,5.0,4.0,3.0,0.25,0.5,0.333,0.667,1.0,0.8
+remplacement,"((((r, e), m), ((p, l), a)), ((c, (e, m)), ((e, n), t)))",rem + placement,re + em + plac + e + ment,11.0,2.0,5.0,0.1,0.25,0.143,0.0,0.0,0.0
+remplacer,"((((r, e), (m, p)), ((l, a), (c, e))), r)",rem + placer,re + em + plac + er,8.0,2.0,4.0,0.429,1.0,0.6,0.0,0.0,0.0
+revoir,"(((r, e), (v, o)), (i, r))",re + voir,re + voir,5.0,2.0,2.0,0.25,1.0,0.4,1.0,1.0,1.0
+travailler,"((((t, r), a), (v, a)), (((i, l), l), (e, r)))",travaill + er,travaill + er,9.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+vieillir,"(((v, i), e), ((i, l), ((l, i), r)))",vieill + ir,vieill + ir,7.0,2.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0
+voyager,"(((v, o), y), ((a, g), (e, r)))",voyage + r,voy + ag + er,6.0,2.0,3.0,0.2,0.5,0.286,0.0,0.0,0.0
+— AVERAGE —,,,,7.622641509433962,2.2452830188679247,2.943396226415094,0.08720754716981131,0.2776792452830189,0.13156603773584905,0.6320943396226415,0.5132075471698114,0.5381320754716982

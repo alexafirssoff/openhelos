@@ -1,0 +1,8 @@
+graphviz==0.20.3
+gudhi==3.11.0
+numpy==2.2.6
+Morfessor==2.0.6
+pandas==2.2.3
+streamlit==1.45.1
+altair==5.5.0
+ipython==9.3.0
