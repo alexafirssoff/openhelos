@@ -2,9 +2,36 @@
 # Copyright (c) 2025 Alexei Firssoff. ORCID: 0009-0006-0316-116X
 
 """
-HELOS: Hierarchical Emergence of Latent Ontological Structure
+LifelongClusterer: Topology-Guided Symbolic Clustering Based on Co-occurrence and Persistent Homology
+
+This module implements a lifelong clustering algorithm for symbolic sequences,
+designed to autonomously group frequently co-occurring symbols into higher-level
+representations (clusters). It draws on principles from topological data analysis,
+specifically persistent homology, to determine the structural stability of potential
+clusters in an evolving symbolic graph.
+
+Key Features:
+- Maintains a co-occurrence graph of symbols and previously formed clusters.
+- Detects candidate clusters based on connectivity and symbol frequency.
+- Computes persistence diagrams for each candidate cluster using Gudhi's simplex trees.
+- Evaluates cluster stability via temporal persistence diagram similarity.
+- Symbolises stable clusters, replacing constituent symbols with unique cluster identifiers.
+- Supports dynamic, online processing of symbolic input streams (lifelong learning).
+- Offers introspection via `get_state()` for external analysis or visualisation.
+
+Theoretical Context:
+While this implementation does not explicitly compute variational free energy,
+its design reflects core ideas of the Free Energy Principle (FEP) in an emergent and heuristic form:
+- Symbolisation reduces structural uncertainty and can be viewed as entropy minimisation.
+- The formation of stable, compact representations implicitly performs model compression.
+- The evolving symbolic hierarchy may be interpreted as a generative model adapting to statistical regularities.
+
+This system is part of the broader OpenHELOS framework and is intended to empirically explore theoretical predictions
+regarding autonomous structure formation, abstraction, and symbolic emergence from local statistical interactions.
+
 Author: Alexei Firssoff
-License: See LICENSE.txt for terms and conditions
+Year: 2025
+License: Non-Commercial Research (see LICENSE.txt for details)
 """
 
 from collections import (

@@ -2,9 +2,33 @@
 # Copyright (c) 2025 Alexei Firssoff. ORCID: 0009-0006-0316-116X
 
 """
-HELOS: Hierarchical Emergence of Latent Ontological Structure
+HELOS Morpher: FEP-Guided Hierarchical Parser with Compositional Structure Learning
+
+This module implements the core component of OpenHELOS responsible for discovering
+hierarchical structure in symbolic sequences through recursive composition and
+predictive evaluation. It employs an approximate formulation of the Free Energy Principle (FEP)
+to guide parsing, model selection, and learning.
+
+Key Concepts:
+- Each parse tree hypothesis is evaluated using a Free Energy score:
+    Free Energy = Complexity + Surprise
+  where:
+    - Complexity measures the structural cost (-log prior) of all constituent nodes.
+    - Surprise measures the prediction error (-log P_likelihood) at each composition step.
+
+- Nodes are stored in a global registry with adaptive log-priors and predictive models.
+- Predictive models estimate transition likelihoods and are updated with success signals.
+- Prior probabilities are updated through a soft Bayesian scheme informed by surprise.
+- Beam search (CKY-style) is used to find the most plausible hierarchical segmentations.
+- The model supports visualisation of parse trees and lifelong refinement.
+
+The implementation is designed to test theoretical predictions from the HELOS framework,
+in particular how abstract symbolic structures and latent hierarchies may emerge
+from predictive compression of input sequences under the Free Energy Principle.
+
 Author: Alexei Firssoff
-License: See LICENSE.txt for terms and conditions
+Year: 2025
+License: Non-Commercial Research (see LICENSE.txt for details)
 """
 
 import math
