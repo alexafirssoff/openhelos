@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2406.xxxxxv1-B31B1B.svg)](https://arxiv.org/abs/2406.xxxxx)
 
-**OpenHELOS** (**H**ierarchical **E**mergence of **L**atent **O**ntological **S**tructure) is an experimental AI research project implementing two major FEP-based systems:
+OpenHELOS (**H**ierarchical **E**mergence of **L**atent **O**ntological **S**tructure) is an experimental codebase developed to empirically investigate several phenomena predicted by the theoretical framework proposed in the associated research paper, grounded in the Free Energy Principle:
 
 1. **Lifelong Symbolic Clusterer** — unsupervised emergent clustering using co-occurrence and persistent homology.
 2. **Emergent Morphemiser** — a recursive parser that discovers morphological structure via Free Energy minimisation.
