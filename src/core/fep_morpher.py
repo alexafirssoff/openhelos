@@ -7,7 +7,6 @@ Author: Alexei Firssoff
 License: See LICENSE.txt for terms and conditions
 """
 
-
 import math
 import heapq
 from typing import (
