@@ -453,12 +453,12 @@ def find_best_parses_fep(sequence: List[str], beam_width: int = 5) -> List[Searc
     return chart.get((0, n - 1), [])
 
 
-# --- Graphviz Visualization ---
-output_dir = "../data/results/morph_parse_trees"  # New directory
-os.makedirs(output_dir, exist_ok=True)
-
-
 def visualize_tree(node: Node, filename: str):
+    
+    # --- Ensure paths ---
+    output_dir = "./results/fep_morpher/trees"  # New directory
+    os.makedirs(output_dir, exist_ok=True)
+    
     """ Generates a PNG visualization of the parse tree using Graphviz. """
     dot = Digraph(comment='Parse Tree', node_attr={'shape': 'record', 'fontsize': '10'})
     dot.attr(rankdir='TB', size="8,10")  # Adjust size if needed
