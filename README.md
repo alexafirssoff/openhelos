@@ -18,6 +18,7 @@ The aim of the presented experiments is **not to outperform state-of-the-art sys
 Training such systems requires carefully constructed, stepwise datasets that differ fundamentally from those typically employed in standard machine learning pipelines. Rather than relying solely on large volumes of labelled data, these systems benefit from inputs that are curated to reflect the internal logic and compositional structure of the target domain. In the case of morphological parsing, this means exposing the model to examples that progressively reveal morphemic patterns in a systematic and hierarchical fashion, thereby enabling the system to internalise morphemes not merely as surface patterns, but as structured units embedded in a broader generative framework.
 
 > 🚨 This is **experimental research code** developed as part of an ongoing effort to build explainable-AI-aligned linguistic self-organisation systems. Not production-ready.
+> The current calculation of metrics such as F1 and precision for HELOS **is incorrect** — this is a bug that we will **fix soon**. The calculation for the publication was done **manually**; please refer to the actual morpheme segmentation for guidance.
 
 ---
 
