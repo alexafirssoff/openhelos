@@ -156,4 +156,4 @@ If you're from a research lab or tech company interested in explainable AI, FEP 
 
 Alexei Firssoff |
 ORCID: [0009-0006-0316-116X](https://orcid.org/0009-0006-0316-116X) |
-For questions, contact [a.a.firssoff@gmail.com](mailto:a.a.firssoff@gmail.com) or [🐦 X.com](https://x.com/AlexFirssoff).
+For questions, contact [a.a.firssoff@gmail.com](mailto:a.a.firssoff@gmail.com) or [🐦 @AlexFirssoff](https://x.com/AlexFirssoff).
