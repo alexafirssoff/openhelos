@@ -1,5 +1,7 @@
 # OpenHELOS
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15592833.svg)](https://doi.org/10.5281/zenodo.15592833)
+
 <!--[![arXiv](https://img.shields.io/badge/arXiv-2406.xxxxxv1-B31B1B.svg)](https://arxiv.org/abs/2406.xxxxx)-->
 
 OpenHELOS (**H**ierarchical **E**mergence of **L**atent **O**ntological **S**tructure) is an experimental codebase developed to empirically investigate several phenomena predicted by the theoretical framework proposed in the associated research paper, grounded in the Free Energy Principle:
