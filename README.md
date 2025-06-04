@@ -15,7 +15,7 @@ The aim of the presented experiments is **not to outperform state-of-the-art sys
 
 Training such systems requires carefully constructed, stepwise datasets that differ fundamentally from those typically employed in standard machine learning pipelines. Rather than relying solely on large volumes of labelled data, these systems benefit from inputs that are curated to reflect the internal logic and compositional structure of the target domain. In the case of morphological parsing, this means exposing the model to examples that progressively reveal morphemic patterns in a systematic and hierarchical fashion, thereby enabling the system to internalise morphemes not merely as surface patterns, but as structured units embedded in a broader generative framework.
 
-> 🚨 This is **experimental research code** developed as part of an ongoing effort to build AGI-aligned linguistic self-organisation systems. Not production-ready.
+> 🚨 This is **experimental research code** developed as part of an ongoing effort to build explainable-AI-aligned linguistic self-organisation systems. Not production-ready.
 
 ---
 
@@ -150,7 +150,7 @@ See [`LICENCE.txt`](LICENCE.txt)
 ## 🧽 Author
 
 Crafted by a solo researcher as part of the OpenHELOS project.
-If you're from a research lab or tech company interested in AGI, FEP or symbolic emergence — feel free to reach out.
+If you're from a research lab or tech company interested in explainable AI, FEP or symbolic emergence — feel free to reach out.
 
 Alexei Firssoff |
 ORCID: [0009-0006-0316-116X](https://orcid.org/0009-0006-0316-116X) |
