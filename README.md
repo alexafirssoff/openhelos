@@ -96,6 +96,8 @@ Then press 'Run training & comparison'.
 This will execute a predefined setup for both the clusterer and morphemiser. 
 See `experiment_setup/` and `datasets/` to modify inputs and parameters.
 
+🚨 The current calculation of metrics presented in .csv files such as F1 and precision for HELOS is incorrect — this is a bug that we will fix soon. The calculation for the publication was done manually; please refer to the actual morpheme segmentation for guidance.
+
 ### 3. Run clusterer
 
 ```bash
