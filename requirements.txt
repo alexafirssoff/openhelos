@@ -6,3 +6,8 @@ pandas==2.2.3
 streamlit==1.45.1
 altair==5.5.0
 ipython==9.3.0
+dill==0.4.0
+matplotlib==3.10.3
+networkx==3.5
+seaborn==0.13.2
+scipy==1.15.3
