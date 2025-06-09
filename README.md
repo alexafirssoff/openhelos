@@ -1,6 +1,8 @@
 # OpenHELOS
 
-[![arXiv](https://img.shields.io/badge/arXiv-2406.xxxxxv1-B31B1B.svg)](https://arxiv.org/abs/2406.xxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15592833.svg)](https://doi.org/10.5281/zenodo.15592833)
+
+<!--[![arXiv](https://img.shields.io/badge/arXiv-2406.xxxxxv1-B31B1B.svg)](https://arxiv.org/abs/2406.xxxxx)-->
 
 OpenHELOS (**H**ierarchical **E**mergence of **L**atent **O**ntological **S**tructure) is an experimental codebase developed to empirically investigate several phenomena predicted by the theoretical framework proposed in the associated research paper, grounded in the Free Energy Principle:
 
@@ -15,7 +17,8 @@ The aim of the presented experiments is **not to outperform state-of-the-art sys
 
 Training such systems requires carefully constructed, stepwise datasets that differ fundamentally from those typically employed in standard machine learning pipelines. Rather than relying solely on large volumes of labelled data, these systems benefit from inputs that are curated to reflect the internal logic and compositional structure of the target domain. In the case of morphological parsing, this means exposing the model to examples that progressively reveal morphemic patterns in a systematic and hierarchical fashion, thereby enabling the system to internalise morphemes not merely as surface patterns, but as structured units embedded in a broader generative framework.
 
-> 🚨 This is **experimental research code** developed as part of an ongoing effort to build AGI-aligned linguistic self-organisation systems. Not production-ready.
+> 🚨 This is **experimental research code** developed as part of an ongoing effort to build explainable-AI-aligned linguistic self-organisation systems. Not production-ready.
+> The current calculation of metrics such as F1 and precision for HELOS **is incorrect** — this is a bug that we will **fix soon**. The calculation for the publication was done **manually**; please refer to the actual morpheme segmentation for guidance.
 
 ---
 
@@ -93,6 +96,8 @@ Then press 'Run training & comparison'.
 This will execute a predefined setup for both the clusterer and morphemiser. 
 See `experiment_setup/` and `datasets/` to modify inputs and parameters.
 
+🚨 <span style="color:red">The current calculation of metrics presented in .csv files such as F1 and precision for HELOS is incorrect — this is a bug that we will fix soon. The calculation for the publication was done manually; please refer to the actual morpheme segmentation for guidance.</span>
+
 ### 3. Run clusterer
 
 ```bash
@@ -150,8 +155,8 @@ See [`LICENCE.txt`](LICENCE.txt)
 ## 🧽 Author
 
 Crafted by a solo researcher as part of the OpenHELOS project.
-If you're from a research lab or tech company interested in AGI, FEP or symbolic emergence — feel free to reach out.
+If you're from a research lab or tech company interested in explainable AI, FEP or symbolic emergence — feel free to reach out.
 
 Alexei Firssoff |
 ORCID: [0009-0006-0316-116X](https://orcid.org/0009-0006-0316-116X) |
-For questions, contact [a.a.firssoff@gmail.com](mailto:a.a.firssoff@gmail.com).
+For questions, contact [a.a.firssoff@gmail.com](mailto:a.a.firssoff@gmail.com) or [🐦 @AlexFirssoff](https://x.com/AlexFirssoff).
