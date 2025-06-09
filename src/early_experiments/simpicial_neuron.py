@@ -587,9 +587,7 @@ class SimplicialNeuron:
         # print(f"  Weighted Degree(v1={v1}): {weighted_degree_v1:.3f} (Raw Degree: {degree_v1})")
         
         # --- Maximum WEIGHTED degree ---
-        # SCALING PROBLEM AGAIN!
-        # SOLUTION: Store and update max_weighted_degree as a neuron attribute.
-        # FOR NOW, keep the loop, but replace with weighted degree.
+        # Keep the loop, but replace with weighted degree.
         max_weighted_degree = 0.0
         all_vertices = vertices
         if not all_vertices:
