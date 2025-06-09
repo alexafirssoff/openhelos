@@ -67,25 +67,6 @@ print(f"S={S}, P_pair={P}, F={F}, b0={b0}, z={z}, P_el1={el1}, P_el2={el2}")
 
 ---
 
-## Hyperparameters
-Absolutely! Here is the same **Simplicial Neuron** documentation in clear, technical British English, reflecting the intent and detail of your code and design.
-
----
-
-# SimplicialNeuron: Documentation
-
-## Overview
-
-The `SimplicialNeuron` is a computational unit that models local analysis of the topological structure of input sequences. Unlike classical neurons, its internal memory is implemented as a **simplicial complex** (i.e., a graph-like structure) which adapts and accumulates structural patterns as edges between observed symbols.
-
-**Key concepts:**
-
-* **Local topological memory:** Graph-based representation of pairwise relationships between symbols.
-* **Learning through structural plasticity:** The internal complex grows and changes as new data is observed.
-* **Metric evaluations:** For each input, the neuron computes stability, energy, and familiarity scores.
-
----
-
 ## Hyperparameters (NeuronHyperParams)
 
 A complete list of hyperparameters and their function:
