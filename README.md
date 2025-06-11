@@ -20,6 +20,8 @@ Training such systems requires carefully constructed, stepwise datasets that dif
 > 🚨 This is **experimental research code** developed as part of an ongoing effort to build explainable-AI-aligned linguistic self-organisation systems. Not production-ready.
 > The current calculation of metrics such as F1 and precision for HELOS **is incorrect** — this is a bug that we will **fix soon**. The calculation for the publication was done **manually**; please refer to the actual morpheme segmentation for guidance.
 
+I’ve also created a brief overview of the article in a more visual format to illustrate how I arrived at the ideas and thought process described in the article. Here’s the link: [the overview on Medium](https://medium.com/@alexfirssoff/from-symbols-to-cognition-my-journey-building-a-cognitive-framework-ec6da99c5a09).
+
 ---
 
 ## 🔬 Research Intent
