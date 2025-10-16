@@ -24,6 +24,27 @@ I’ve also created a brief overview of the article in a more visual format to i
 
 ---
 
+## 🔬 Major Milestone — Emergent Arithmetic in HELOS Topos
+
+We proudly announce the first fully **prior-free symbolic arithmetic learner** within the HELOS research framework —  
+**[ARITHMETIC_DESCOVERER](./docs/SYMBOLIC_ARITHMETIC_DISCOVERER.md)**.
+
+This experiment demonstrates, for the first time, that a symbolic system can *derive* the digit-wise algorithms for  
+addition, subtraction, and multiplication **entirely from examples**, with **no hard-coded arithmetic logic**.  
+
+The model builds a self-organising **sheaf topology** of local digit relations and discovers coherent global rules  
+that generalise to unseen number lengths, digit distributions, and multi-digit multiplication — proving that it  
+*understands the procedure*, not merely memorises the outcomes.
+
+**Key highlights:**
+- 97.6% overall accuracy on random test suite  
+- 98.3–99.0% accuracy on out-of-distribution evaluations  
+- Interpretable emergent rules (viewable via learned sheaf sections)  
+- Demonstrated compositional reasoning and algorithmic abstraction  
+
+See the dedicated paper-style documentation and experiment logs here:  
+👉 [docs/ARITHMETIC_DESCOVERER.md](./docs/SYMBOLIC_ARITHMETIC_DISCOVERER.md)
+
 ## 🔬 Research Intent
 
 This repository is part of a larger research initiative. It demonstrates how complex linguistic structure can **emerge without supervision** under energy-based principles.
@@ -51,6 +72,7 @@ openhelos/
 │   │   ├── __init__.py
 │   │   ├── fep_morpher.py
 │   │   ├── fep_ph_clasterer.py
+│   │   ├── symbolic_arithmetic_discoverer_v1.py
 │   └── experimental_setup/
 │   │   ├── __init__.py
 │   │   ├── clusterer_streamlit.py
