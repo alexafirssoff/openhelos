@@ -26,7 +26,7 @@ I’ve also created a brief overview of the article in a more visual format to i
 
 ## 🔬 Major Milestone — Emergent Arithmetic in HELOS Topos
 
-We proudly announce the first fully **prior-free symbolic arithmetic learner** within the HELOS research framework —  
+We proudly announce the first fully **prior-free symbolic arithmetic learner** within the HELOS research framework
 **[ARITHMETIC_DESCOVERER](./docs/SYMBOLIC_ARITHMETIC_DISCOVERER.md)**.
 
 This experiment demonstrates, for the first time, that a symbolic system can *derive* the digit-wise algorithms for  
