@@ -61,6 +61,8 @@ def run_clusterer_streamlit():
     # --- Load from memory if exists ---
     if "clusterer_state" in st.session_state:
         clusterer_state = st.session_state["clusterer_state"]
+        with open('./results/fep_ph_clusterer/clusterer_output.json', mode='w', encoding='utf-8') as out_file:
+            json.dump(clusterer_state, out_file)
     
     # --- Main Visualisation ---
     if clusterer_state:
